@@ -2,6 +2,7 @@ Documentação do trabalho LOTOFACIL sem interface
 
 # Bibliotecas utilizadas :
 • Random
+
 • Scanner
 
 Versão 17 do JDK.
