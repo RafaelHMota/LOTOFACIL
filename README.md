@@ -1,5 +1,4 @@
-# LOTOFACIL :
- Documentação do trabalho LOTFACIL sem interface
+Documentação do trabalho LOTOFACIL sem interface
 
 # Bibliotecas utilizadas :
 • Random
